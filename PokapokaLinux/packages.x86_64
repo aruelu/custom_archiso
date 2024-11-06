@@ -137,3 +137,7 @@ lxterminal
 xorg-server
 
 rofi
+
+noto-fonts-cjk
+fcitx5-im
+fcitx-mozc
