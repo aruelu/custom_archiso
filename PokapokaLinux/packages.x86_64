@@ -128,18 +128,21 @@ xfsprogs
 xl2tpd
 zsh
 
-i3-wm
-i3status
+#i3-wm
+#i3status
 lightdm
 lightdm-gtk-greeter
 dmenu
 lxterminal
 xorg-server
 
-rofi
+#rofi
 
 noto-fonts-cjk
 fcitx5-im
 fcitx5-mozc
 
 firefox
+
+xfce4
+xfce4-goodies
