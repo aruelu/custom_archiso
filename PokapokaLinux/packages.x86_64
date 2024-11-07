@@ -132,8 +132,8 @@ zsh
 #i3status
 lightdm
 lightdm-gtk-greeter
-dmenu
-lxterminal
+#dmenu
+#lxterminal
 xorg-server
 
 #rofi
