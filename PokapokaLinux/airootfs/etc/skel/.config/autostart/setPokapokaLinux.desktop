@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=/bin/bash -c ~/.config/setPokapokaLinux.sh
+StartupNotify=true
+Terminal=false
+OnlyShowIn=XFCE;
+Name=Set PokapokaLinux Setup
+Name[ja]=Set PokapokaLinux Setup
+Comment[ja]=PokapokaLinuxの初期設定
+
