@@ -5,6 +5,11 @@
 SETUP_FLAG_FILE="$HOME/.config/.run_setPokapokalinux"
 DEFAULT_BACKGROUND="/usr/share/backgrounds/PokapokaLinux.png"
 
+sleep 1
+until ps -C xfdesktop > /dev/null; do
+    sleet 1
+done
+
 # 初回実行の場合のみ各種設定を実行
 if [ ! -f "$SETUP_FLAG_FILE" ]; then
     # テーマ、アイコン、カーソル、フォントの設定
